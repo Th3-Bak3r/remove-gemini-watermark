@@ -1,6 +1,15 @@
 # Gemini Watermark Remover
 
+[![En](https://img.shields.io/badge/Lang-En-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.md)
 [![Fr](https://img.shields.io/badge/Lang-Fr-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.fr.md)
+[![De](https://img.shields.io/badge/Lang-De-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.de.md)
+[![Es](https://img.shields.io/badge/Lang-Es-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.es.md)
+[![Ar](https://img.shields.io/badge/Lang-Ar-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ar.md)
+[![Hi](https://img.shields.io/badge/Lang-Hi-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.hi.md)
+[![Ru](https://img.shields.io/badge/Lang-Ru-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ru.md)
+[![Zh](https://img.shields.io/badge/Lang-Zh-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.zh.md)
+[![Ja](https://img.shields.io/badge/Lang-Ja-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ja.md)
+[![Ko](https://img.shields.io/badge/Lang-Ko-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ko.md)
 
 **Free, private, browser-based tool to remove watermarks from Google Gemini AI-generated images.**
 
