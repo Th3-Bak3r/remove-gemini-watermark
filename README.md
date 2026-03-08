@@ -1,5 +1,16 @@
 # Gemini Watermark Remover
 
+[![En](https://img.shields.io/badge/Lang-En-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.md)
+[![Fr](https://img.shields.io/badge/Lang-Fr-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.fr.md)
+[![De](https://img.shields.io/badge/Lang-De-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.de.md)
+[![Es](https://img.shields.io/badge/Lang-Es-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.es.md)
+[![Ar](https://img.shields.io/badge/Lang-Ar-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ar.md)
+[![Hi](https://img.shields.io/badge/Lang-Hi-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.hi.md)
+[![Ru](https://img.shields.io/badge/Lang-Ru-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ru.md)
+[![Zh](https://img.shields.io/badge/Lang-Zh-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.zh.md)
+[![Ja](https://img.shields.io/badge/Lang-Ja-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ja.md)
+[![Ko](https://img.shields.io/badge/Lang-Ko-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ko.md)
+
 **Free, private, browser-based tool to remove watermarks from Google Gemini AI-generated images.**
 
 🔗 **Tool:** [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)
@@ -17,9 +28,11 @@ This tool removes the Gemini watermark using **reverse alpha blending** — a te
 ## How to Use It
 
 ### Step 1 — Open the tool
+
 Go to [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com) in any modern browser (Chrome, Firefox, Safari, Edge). No installation required.
 
 ### Step 2 — Upload your image
+
 Click the upload area or drag and drop your image onto it.
 
 **Supported formats:** JPG, PNG, WebP  
@@ -27,15 +40,19 @@ Click the upload area or drag and drop your image onto it.
 **Batch processing:** Yes, you can upload multiple images at once
 
 ### Step 3 — Wait for processing
+
 The browser processes your image automatically in a few seconds. A progress indicator shows the status. Nothing is sent to any server.
 
 ### Step 4 — Preview the result
+
 A side-by-side preview shows the original image and the cleaned version. Zoom in to check quality before downloading.
 
 ### Step 5 — Download your clean image
+
 Choose your output format and click Download.
 
 **Available output formats:**
+
 - PNG (best quality, lossless)
 - JPG (smaller file size)
 - WebP (best for web use)
@@ -44,16 +61,16 @@ Choose your output format and click Download.
 
 ## Key Features
 
-| Feature | Details |
-|---|---|
-| Price | Free, always |
-| Account required | No |
-| Image uploads to server | Never |
-| Supported input formats | JPG, PNG, WebP |
+| Feature                  | Details        |
+| ------------------------ | -------------- |
+| Price                    | Free, always   |
+| Account required         | No             |
+| Image uploads to server  | Never          |
+| Supported input formats  | JPG, PNG, WebP |
 | Supported output formats | JPG, PNG, WebP |
-| Max file size | 20MB |
-| Batch processing | Yes |
-| Works on mobile | Yes |
+| Max file size            | 20MB           |
+| Batch processing         | Yes            |
+| Works on mobile          | Yes            |
 
 ---
 
@@ -85,18 +102,18 @@ All image processing happens locally inside your browser using the HTML5 Canvas 
 
 ## Available Languages
 
-| Language | File |
-|---|---|
-| English | [README.md](README.md) |
-| French | [README.fr.md](README.fr.md) |
-| German | [README.de.md](README.de.md) |
-| Spanish | [README.es.md](README.es.md) |
-| Arabic | [README.ar.md](README.ar.md) |
-| Hindi | [README.hi.md](README.hi.md) |
-| Russian | [README.ru.md](README.ru.md) |
-| Chinese | [README.zh.md](README.zh.md) |
+| Language | File                         |
+| -------- | ---------------------------- |
+| English  | [README.md](README.md)       |
+| French   | [README.fr.md](README.fr.md) |
+| German   | [README.de.md](README.de.md) |
+| Spanish  | [README.es.md](README.es.md) |
+| Arabic   | [README.ar.md](README.ar.md) |
+| Hindi    | [README.hi.md](README.hi.md) |
+| Russian  | [README.ru.md](README.ru.md) |
+| Chinese  | [README.zh.md](README.zh.md) |
 | Japanese | [README.ja.md](README.ja.md) |
-| Korean | [README.ko.md](README.ko.md) |
+| Korean   | [README.ko.md](README.ko.md) |
 
 ---
 
@@ -122,4 +139,4 @@ No. This is an independent tool and is not affiliated with, endorsed by, or conn
 
 ---
 
-*© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)*
+_© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)_

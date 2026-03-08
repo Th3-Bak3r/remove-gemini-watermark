@@ -1,5 +1,16 @@
 # Gemini Watermark Remover — जेमिनी वॉटरमार्क हटाने का टूल
 
+[![En](https://img.shields.io/badge/Lang-En-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.md)
+[![Fr](https://img.shields.io/badge/Lang-Fr-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.fr.md)
+[![De](https://img.shields.io/badge/Lang-De-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.de.md)
+[![Es](https://img.shields.io/badge/Lang-Es-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.es.md)
+[![Ar](https://img.shields.io/badge/Lang-Ar-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ar.md)
+[![Hi](https://img.shields.io/badge/Lang-Hi-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.hi.md)
+[![Ru](https://img.shields.io/badge/Lang-Ru-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ru.md)
+[![Zh](https://img.shields.io/badge/Lang-Zh-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.zh.md)
+[![Ja](https://img.shields.io/badge/Lang-Ja-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ja.md)
+[![Ko](https://img.shields.io/badge/Lang-Ko-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ko.md)
+
 **Google Gemini AI से बनाई गई तस्वीरों से वॉटरमार्क हटाने का मुफ्त, निजी और ब्राउज़र-आधारित टूल।**
 
 🔗 **टूल:** [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)
@@ -17,9 +28,11 @@
 ## इसका उपयोग कैसे करें
 
 ### चरण 1 — टूल खोलें
+
 किसी भी आधुनिक ब्राउज़र (Chrome, Firefox, Safari, Edge) में [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com) पर जाएं। कोई इंस्टॉलेशन आवश्यक नहीं है।
 
 ### चरण 2 — अपनी तस्वीर अपलोड करें
+
 अपलोड क्षेत्र पर क्लिक करें या अपनी तस्वीर को उस पर खींचें और छोड़ें।
 
 **समर्थित फॉर्मेट:** JPG, PNG, WebP  
@@ -27,15 +40,19 @@
 **बैच प्रोसेसिंग:** हां, आप एक साथ कई तस्वीरें अपलोड कर सकते हैं
 
 ### चरण 3 — प्रोसेसिंग का इंतजार करें
+
 ब्राउज़र कुछ सेकंड में आपकी तस्वीर को अपने आप प्रोसेस करता है। कुछ भी किसी सर्वर पर नहीं भेजा जाता।
 
 ### चरण 4 — परिणाम देखें
+
 एक साथ-साथ पूर्वावलोकन मूल तस्वीर और साफ किए गए संस्करण को दिखाता है। डाउनलोड करने से पहले गुणवत्ता जांचने के लिए ज़ूम इन करें।
 
 ### चरण 5 — अपनी साफ तस्वीर डाउनलोड करें
+
 अपना आउटपुट फॉर्मेट चुनें और डाउनलोड पर क्लिक करें।
 
 **उपलब्ध आउटपुट फॉर्मेट:**
+
 - PNG (सर्वश्रेष्ठ गुणवत्ता, बिना नुकसान के)
 - JPG (छोटा फ़ाइल आकार)
 - WebP (वेब उपयोग के लिए सबसे अच्छा)
@@ -44,16 +61,16 @@
 
 ## मुख्य विशेषताएं
 
-| विशेषता | विवरण |
-|---|---|
-| मूल्य | हमेशा मुफ्त |
-| खाता आवश्यक | नहीं |
-| तस्वीरें सर्वर पर भेजी जाती हैं | कभी नहीं |
-| समर्थित इनपुट फॉर्मेट | JPG, PNG, WebP |
-| उपलब्ध आउटपुट फॉर्मेट | JPG, PNG, WebP |
-| अधिकतम फ़ाइल आकार | 20MB |
-| बैच प्रोसेसिंग | हां |
-| मोबाइल पर काम करता है | हां |
+| विशेषता                         | विवरण          |
+| ------------------------------- | -------------- |
+| मूल्य                           | हमेशा मुफ्त    |
+| खाता आवश्यक                     | नहीं           |
+| तस्वीरें सर्वर पर भेजी जाती हैं | कभी नहीं       |
+| समर्थित इनपुट फॉर्मेट           | JPG, PNG, WebP |
+| उपलब्ध आउटपुट फॉर्मेट           | JPG, PNG, WebP |
+| अधिकतम फ़ाइल आकार               | 20MB           |
+| बैच प्रोसेसिंग                  | हां            |
+| मोबाइल पर काम करता है           | हां            |
 
 ---
 
@@ -85,4 +102,4 @@
 
 ---
 
-*© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)*
+_© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)_

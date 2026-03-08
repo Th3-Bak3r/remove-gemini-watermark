@@ -1,5 +1,16 @@
 # Gemini Watermark Remover — Suppresseur de Filigrane Gemini
 
+[![En](https://img.shields.io/badge/Lang-En-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.md)
+[![Fr](https://img.shields.io/badge/Lang-Fr-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.fr.md)
+[![De](https://img.shields.io/badge/Lang-De-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.de.md)
+[![Es](https://img.shields.io/badge/Lang-Es-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.es.md)
+[![Ar](https://img.shields.io/badge/Lang-Ar-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ar.md)
+[![Hi](https://img.shields.io/badge/Lang-Hi-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.hi.md)
+[![Ru](https://img.shields.io/badge/Lang-Ru-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ru.md)
+[![Zh](https://img.shields.io/badge/Lang-Zh-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.zh.md)
+[![Ja](https://img.shields.io/badge/Lang-Ja-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ja.md)
+[![Ko](https://img.shields.io/badge/Lang-Ko-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.ko.md)
+
 **Outil gratuit, privé et basé sur le navigateur pour supprimer les filigranes des images générées par Google Gemini.**
 
 🔗 **Outil :** [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)
@@ -17,9 +28,11 @@ Cet outil supprime le filigrane Gemini en utilisant le **mélange alpha inversé
 ## Comment l'utiliser
 
 ### Étape 1 — Ouvrir l'outil
+
 Accédez à [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com) dans n'importe quel navigateur moderne (Chrome, Firefox, Safari, Edge). Aucune installation requise.
 
 ### Étape 2 — Télécharger votre image
+
 Cliquez sur la zone de téléchargement ou faites glisser votre image dessus.
 
 **Formats acceptés :** JPG, PNG, WebP  
@@ -27,15 +40,19 @@ Cliquez sur la zone de téléchargement ou faites glisser votre image dessus.
 **Traitement par lot :** Oui, vous pouvez télécharger plusieurs images à la fois
 
 ### Étape 3 — Attendre le traitement
+
 Le navigateur traite votre image automatiquement en quelques secondes. Rien n'est envoyé à un serveur.
 
 ### Étape 4 — Aperçu du résultat
+
 Un aperçu côte à côte montre l'image originale et la version nettoyée. Zoomez pour vérifier la qualité avant de télécharger.
 
 ### Étape 5 — Télécharger votre image propre
+
 Choisissez votre format de sortie et cliquez sur Télécharger.
 
 **Formats de sortie disponibles :**
+
 - PNG (meilleure qualité, sans perte)
 - JPG (taille de fichier plus petite)
 - WebP (idéal pour le web)
@@ -44,16 +61,16 @@ Choisissez votre format de sortie et cliquez sur Télécharger.
 
 ## Caractéristiques principales
 
-| Fonctionnalité | Détails |
-|---|---|
-| Prix | Gratuit, toujours |
-| Compte requis | Non |
-| Images envoyées au serveur | Jamais |
-| Formats d'entrée acceptés | JPG, PNG, WebP |
-| Formats de sortie disponibles | JPG, PNG, WebP |
-| Taille maximale | 20 Mo |
-| Traitement par lot | Oui |
-| Fonctionne sur mobile | Oui |
+| Fonctionnalité                | Détails           |
+| ----------------------------- | ----------------- |
+| Prix                          | Gratuit, toujours |
+| Compte requis                 | Non               |
+| Images envoyées au serveur    | Jamais            |
+| Formats d'entrée acceptés     | JPG, PNG, WebP    |
+| Formats de sortie disponibles | JPG, PNG, WebP    |
+| Taille maximale               | 20 Mo             |
+| Traitement par lot            | Oui               |
+| Fonctionne sur mobile         | Oui               |
 
 ---
 
@@ -85,4 +102,4 @@ Non. Cet outil est indépendant et n'est en aucun cas affilié à Google LLC.
 
 ---
 
-*© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)*
+_© 2026 Gemini Watermark Remover — [wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)_
