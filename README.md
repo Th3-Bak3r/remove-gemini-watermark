@@ -1,5 +1,7 @@
 # Gemini Watermark Remover
 
+[![Fr](https://img.shields.io/badge/Lang-Fr-brightgreen.svg)](https://github.com/Th3-Bak3r/remove-gemini-watermark/blob/main/README.fr.md)
+
 **Free, private, browser-based tool to remove watermarks from Google Gemini AI-generated images.**
 
 🔗 **Tool:** [https://wr.imgplaceholdr.com](https://wr.imgplaceholdr.com)
